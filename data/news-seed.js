@@ -1,0 +1,77 @@
+window.LCU_NEWS_SEED = [
+  {
+    "title": "深耕课堂砺师能 以赛促教展风采——学院举办2026年省青年教师教学比赛初赛",
+    "date": "2026-10-07",
+    "url": "https://mp.weixin.qq.com/s/Y5yDVa_xBZtVCX7LEsromA"
+  },
+  {
+    "title": "物理科学与信息工程学院（集成电路学院）承办聊城大学第二十届iCAN大学生创新创业大赛聊城大学校内选拔赛",
+    "date": "2026-09-12",
+    "url": "https://mp.weixin.qq.com/s/DG6IK2ZHsbye8C2go4BVeQ"
+  },
+  {
+    "title": "山东省大学生物理创新大赛教学能力竞赛暨第二十一届“泰山杯”大学生物理教学能力竞赛决赛在聊城大学举办",
+    "date": "2026-06-05",
+    "url": "https://mp.weixin.qq.com/s/cBvt9p89uQE_p7-2_JOCfA"
+  },
+  {
+    "title": "物理科学与信息工程学院（集成电路学院）学子参加山东省第十八届大学生科技节—大学生物理创新大赛（学术竞赛）创佳绩",
+    "date": "2026-05-05",
+    "url": "https://mp.weixin.qq.com/s/S7F-KJASyV6dVlGWtTuQwA"
+  },
+  {
+    "title": "规划领航，竞赛赋能丨物理科学与信息工程学院（集成电路学院）举行“竞赛指导”专题讲座",
+    "date": "2026-04-11",
+    "url": "https://mp.weixin.qq.com/s/ZxU6xyX3fl-ah1PdxiEjfw"
+  },
+  {
+    "title": "物理科学与信息工程学院承办第十五届“挑战杯”创业计划竞赛校内选拔赛复赛",
+    "date": "2026-01-12",
+    "url": "https://mp.weixin.qq.com/s/az1mVSA3kWqgJQUj2gLqfw"
+  },
+  {
+    "title": "物理科学与信息工程学院在2025年一带一路金砖国家技能发展与技术创新大赛集成电路设计与应用赛项中荣获全国一等奖",
+    "date": "2025-12-02",
+    "url": "https://mp.weixin.qq.com/s/8-Us0z2biB4-R-vGQOy2sA"
+  },
+  {
+    "title": "物理科学与信息工程学院举办第十五届“挑战杯”创业计划竞赛院级选拔赛",
+    "date": "2025-12-01",
+    "url": "https://mp.weixin.qq.com/s/5Emt5r99NqbdKHSK7N-cTw"
+  },
+  {
+    "title": "物理科学与信息工程学院承办聊城大学第十九届iCAN大学生创新创业大赛聊城大学校内选拔赛",
+    "date": "2025-09-25",
+    "url": "https://mp.weixin.qq.com/s/3I0c8LzR5pZGFO5pr90fsw"
+  },
+  {
+    "title": "喜报！物理科学与信息工程学院学子在第十七届山东省大学生科技节-大学生物理实验大赛中取得优异成绩",
+    "date": "2025-08-30",
+    "url": "https://mp.weixin.qq.com/s/jPlNQMABZdKgppOf7vD0og"
+  },
+  {
+    "title": "喜报！物理科学与信息工程学院学子在中国大学生计算机设计大赛中首获佳绩",
+    "date": "2025-08-30",
+    "url": "https://mp.weixin.qq.com/s/CI9FqSZ4wlQ4F8y3Puh0JA"
+  },
+  {
+    "title": "喜报丨物理科学与信息工程学院学子在第十六届蓝桥杯全国软件和信息技术专业人才大赛个人赛（国赛）中斩获佳绩",
+    "date": "2025-08-30",
+    "url": "https://mp.weixin.qq.com/s/8qr5Lu3b1va681V7KafPSg"
+  },
+  {
+    "title": "喜报！物理科学与信息工程学院学子在第二十七届中国机器人及人工智能大赛中取得优异成绩",
+    "date": "2025-08-22",
+    "url": "https://mp.weixin.qq.com/s/jiFSBnFZEmWz-7uv8L4qzw"
+  },
+  {
+    "title": "喜报！理工学子在第十一届全国大学生物理实验竞赛（教学）取得优异成绩",
+    "date": "2025-08-19",
+    "url": "https://mp.weixin.qq.com/s/Af3Jlv1gCccIq718kR9oZw"
+  },
+  {
+    "title": "捷报再传！理工学子在2025年第十六届“格致杯”物理师范生教学技能大赛中载誉而归",
+    "date": "2025-07-31",
+    "url": "https://mp.weixin.qq.com/s/tVJbZSUu0sG7vDe_GnvB2A"
+  }
+];
