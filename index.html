@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="聊城大学物理科学与信息工程学院（集成电路学院）竞赛渠道查询网站。">
+  <meta name="theme-color" content="#f6f6f2">
+  <title>竞赛渠道查询 · 聊城大学物理科学与信息工程学院</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="site-shell">
+    <div class="topline"><span>LCU / COMPETITION ATLAS</span><span>让每一次探索，都有清晰的入口</span><span id="today-label"></span></div>
+    <header class="site-header">
+      <a class="brand" href="#/" aria-label="返回首页"><img src="assets/college-banner.jpg" alt="聊城大学物理科学与信息工程学院（集成电路学院）"></a>
+      <div class="header-caption"><span class="tiny-label">COLLEGE OF PHYSICS & INFORMATION ENGINEERING</span><strong>竞赛渠道查询</strong></div>
+    </header>
+    <nav class="site-nav" aria-label="主导航">
+      <a href="#/" data-nav="home">首页 <span>00</span></a>
+      <a href="#/competitions" data-nav="competitions">竞赛详情 <span>01</span></a>
+      <a href="#/news" data-nav="news">最新消息 <span>02</span></a>
+      <a href="#/policies" data-nav="policies">校方政策 <span>03</span></a>
+      <a class="nav-official" href="https://phys.lcu.edu.cn/" target="_blank" rel="noopener noreferrer">学院官网 ↗</a>
+    </nav>
+    <main id="app" tabindex="-1"></main>
+    <footer class="site-footer">
+      <div class="footer-main">
+        <div><span class="tiny-label">INFORMATION DESK / 竞赛信息台</span><h2>从这里出发，<br>去做有意思的事。</h2><p>赛事时间与报名要求会调整，请在报名前核对竞赛官网及学校正式通知。</p><a href="https://phys.lcu.edu.cn/" target="_blank" rel="noopener noreferrer">查看学院官网 ↗</a></div>
+        <div class="qr-box"><img src="assets/school-qr.png" alt="学校信息二维码"><div><strong>温馨提示</strong><p>扫码获取更多学校信息；政策、报名和获奖认定请以学校官网公布的信息为准。</p></div></div>
+      </div>
+      <div class="footer-bottom"><span>聊城大学物理科学与信息工程学院（集成电路学院） · 竞赛渠道查询</span><span>资料来源：学校竞赛目录、学院官网与赛事官网</span><a href="#/">返回顶部 ↑</a></div>
+    </footer>
+  </div>
+  <script src="data/competitions.js"></script>
+  <script src="data/news-seed.js"></script>
+  <script src="data/plans.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
